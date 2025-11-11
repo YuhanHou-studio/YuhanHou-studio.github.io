@@ -6,7 +6,7 @@ subtitle: <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>.
 
 profile:
   align: right
-  image: yuhan_pic.jpg
+  image: yhou312@gatech.edu-0.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Current based at Atlanta, Georgia, USA.</p>
